@@ -19,7 +19,7 @@ _There is no known bugs._
 
 ## Support and contact details
 
-_Contact me at yasudamel@gmail.com for any issues arose._
+_Contact chanethanlee@gmail.com or yasudamel@gmail.com for any issues arose._
 
 ## Technologies Used
 
